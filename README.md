@@ -9,8 +9,7 @@ Todos nós sabemos quanto vem crescendo a população de insegurança alimentar,
 ## Objetivo do Projeto
 O projeto visa criar um sistema de ChatBot inteligente para mostrar apresentar sobre Insegurança Alimentar e Inundações no Rio grande do Sul.  Esse sistema tem 2 funções: Ajudar as  pessoas que estão em situações de insegurança alimentar e compartilhar e também ajudar t as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações. Esse projeto é uma campanha, trazendo algumas orgs e incentivando a doar, sem cair em fake news. Você ainda pode conversar sobre esses assuntos com o ChatBot.
 
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/70edaf96-4500-43dc-9cbc-4a0c1da67a9b" height="100" width"240">
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/3782b717-dccb-4912-8240-21ced2a6a5ab" height="100" width"240">
+
 
 ## Desenvolvimento
 
