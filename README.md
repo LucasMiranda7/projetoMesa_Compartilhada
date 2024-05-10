@@ -21,7 +21,7 @@ Versão usada foi o Gemini 1.0 pro.
 
 **Concientizar a Fazer o Bem:** Lembre-se que doar é fazer o bem ao proximo, e fazer o bem é ter amor ao proximo. 
 
-## Imagens e Prints
+## Imagens e Prints 📸
 <img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/0e1ca242-f76f-4efd-b753-153a60de266a">
 <img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/ac9ae5d0-aaea-48ae-8640-7c4dd60fc279">
 <img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/cd91a434-0e99-4c80-b448-2d8352f27a0b"
