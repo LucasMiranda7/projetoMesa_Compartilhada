@@ -1,6 +1,6 @@
 ## Seja Bem vindo ao Projeto!
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/daa67379-73c8-4568-a6b3-70b609947211" height="260">
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/1342615c-475f-4c7a-826a-f5db3740cb2d" height="260">
+<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/daa67379-73c8-4568-a6b3-70b609947211" height="280">        
+<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/1342615c-475f-4c7a-826a-f5db3740cb2d" height="280">
 
 
 ## Introdução
