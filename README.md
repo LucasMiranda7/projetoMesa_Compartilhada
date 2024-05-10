@@ -11,7 +11,7 @@ O projeto visa criar um sistema de ChatBot inteligente para mostrar apresentar s
 
 
 ## Desenvolvimento
-Desenvolvido através da linguagem Python utilizando o Google Collab e a Inteligencia Artificial Google IA Studio.
+Desenvolvido através da linguagem Python utilizando o Google Collab e a Inteligencia Artificial Google IA Studio.  
 Versão usada foi o Gemini 1.0 pro.
 
 ## Vantagens e Objetivos
