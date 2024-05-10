@@ -9,7 +9,7 @@ Todos nós sabemos quanto vem crescendo a população de insegurança alimentar,
 10% Do Planeta em população mundial passam fome, isso seria um total de  mais de 700 milhões de pessoas em situações de fome e rua.
 
 ## Objetivo do Projeto
-O projeto visa criar um sistema de ChatBot inteligente para mostrar apresentar sobre Insegurança Alimentar e Inundações no Rio grande do Sul.  Esse sistema tem 3 funções: Ajudar as  pessoas que estão em situações de insegurança alimentar, socorre  as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações e evitar fake news. Esse projeto é uma campanha, trazendo algumas orgs e incentivando a doar, sem cair em fake news. Você ainda pode conversar sobre esses assuntos com o ChatBot.
+O projeto visa criar um sistema de ChatBot inteligente que se chama MesaAmiga IA para  apresentar sobre Insegurança Alimentar e Inundações no Rio grande do Sul.  Esse sistema tem 3 funções: Ajudar as  pessoas que estão em situações de insegurança alimentar, ajudar  as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações e combater o máximo de fake news. Esse projeto é uma campanha, trazendo algumas orgs e incentivando a doar, sem cair em fake news. Você ainda pode conversar sobre esses assuntos com o ChatBot - MesaAmiga IA.
 
 
 ## Desenvolvimento
