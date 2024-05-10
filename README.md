@@ -15,9 +15,9 @@ Desenvolvido através da linguagem Python utilizando o Google Collab e a Intelig
 Versão usada foi o Gemini 1.0 pro.
 
 ## Vantagens e Objetivos
-Evitar Fakes News: Usando esse sistema, você irá evitar cair em doações Fakes, com esse sistema ja divulgamos doações oficiais e confiaveis de orgs conhecidas.
+**Evitar Fakes News:** Usando esse sistema, você irá evitar cair em doações Fakes, com esse sistema ja divulgamos doações oficiais e confiaveis de orgs conhecidas.
 
-Concientizar a Fazer o Bem: Lembre-se que doar é fazer o bem ao proximo, e fazer o bem é ter amor ao proximo. 
+**Concientizar a Fazer o Bem:** Lembre-se que doar é fazer o bem ao proximo, e fazer o bem é ter amor ao proximo. 
 
 ## Como executar
 1. Execute as Configurações Inicias.
