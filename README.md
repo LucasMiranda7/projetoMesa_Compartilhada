@@ -1,6 +1,7 @@
 ## Seja Bem vindo ao Projeto Mesa Compartilhada!
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/daa67379-73c8-4568-a6b3-70b609947211" height="280">        
-<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/1342615c-475f-4c7a-826a-f5db3740cb2d" height="280">
+<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/daa67379-73c8-4568-a6b3-70b609947211" height="250">        
+<img src="https://lh3.googleusercontent.com/gg/ANIJZFGucxn30JImbZxb0cRapEg9hsfABaxcplvj310SgeOh8Eg9B1umF31olXN1vZ_t6hI6IzcNxcNq6Af6hgXJtI2qySMyYVvoL2p1H7Zxsow5bYFIaBW2qElFLk_MtBinhZhMzTQ2bG5Ole9uMd-9ljqyj4_c6_GEmUN7VHuawKK_w58tk5AVbpygxdjo4MUQRmKd7T4UcupCxTy5r7EcLjbG1y0czBGG9dmuLA9d5OATv1-yM41F_YujnWRRZgKTCNaUVtiAHOOXtqhYz5C-q3jlGE5dlPcgPO1qYeCDi4gXedJIB8tp5duzxELzTbpa-KayhopSTFy5azT0Tc3MDJE" height="250">
+<img src="https://lh3.googleusercontent.com/gg/ANIJZFGvl9vPiJWScJPLVz1Qt5I08pNRt7vrk3k8E1CI62FbMtL_5WkDIYJgc8G1BSJUZnczwpa7zqrhYK6brBuoJqoMzAoaQEP899ve8ihiW3F6_yLMP8QUYT27W1CGPELINj7nDTnpFottogkvX8x5ljo0jeeC-9AcEUdxlgM3RHP3c-eha6rQ2EC4Ot5YM3_93LKdvZH0A0wM1gx7c4qMh2SleEeN9t91xpHDtREG3_SJphn5Db3sODDIGJq-71QAEn3aI3eiz7q_Za9yxhXQacv_4VMmx5g_Jgducj7NCcYMlLQKC80WaFt3j-KCwqs06Z-9wMEZc9gzreB-pM-jjFek" height="250">
 
 
 ## Introdução
