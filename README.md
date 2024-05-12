@@ -29,3 +29,9 @@ A MesaAmiga IA utiliza tecnologia de ponta para cumprir sua missão. Desenvolvid
 2. Explore as informações sobre insegurança alimentar e as enchentes no RS.
 3. Encontre organizações confiáveis e faça sua doação de forma segura.
 4. Converse com o chatbot e aprofunde seu conhecimento sobre os temas abordados.
+
+
+## Contato
+
+**Email:** Lucas7.codes@gmail.com
+**LinkedIn:**https://www.linkedin.com/in/lucas-miranda7/
