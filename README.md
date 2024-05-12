@@ -34,4 +34,5 @@ A MesaAmiga IA utiliza tecnologia de ponta para cumprir sua missão. Desenvolvid
 ## Contato
 
 **Email:** Lucas7.codes@gmail.com            
-**LinkedIn:** https://www.linkedin.com/in/lucas-miranda7/
+**LinkedIn:** https://www.linkedin.com/in/lucas-miranda7/               
+**Instagram:** https://www.instagram.com/ilucasmiranda/
