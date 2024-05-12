@@ -37,6 +37,6 @@ A MesaAmiga IA utiliza tecnologia de ponta para cumprir sua missão. Desenvolvid
 
 ## Contato
 
-**Email:** Lucas7.codes@gmail.com            
+<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/d0bd8b72-7fbc-4ad8-b043-2ab1e0089812" width="30"> **Email:** Lucas7.codes@gmail.com            
 **LinkedIn:** https://www.linkedin.com/in/lucas-miranda7/               
 **Instagram:** https://www.instagram.com/ilucasmiranda/
