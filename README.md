@@ -13,6 +13,10 @@ Em um mundo onde a insegurança alimentar afeta mais de 700 milhões de pessoas,
   
 3. Engajar e conscientizar: Através da interação com o chatbot, os usuários podem aprender mais sobre os problemas, as necessidades das vítimas e como contribuir de forma eficaz.
 
+## Imagens do Projeto
+
+<img src="https://github.com/LucasMiranda7/projetoMesa_Compartilhada/assets/143975592/3530fb6b-9ad2-4496-a30d-c33f9e89d17f">
+
 ## Desenvolvimento
 A MesaAmiga IA utiliza tecnologia de ponta para cumprir sua missão. Desenvolvida em linguagem Python, com o apoio do Google Colab e da inteligência artificial do Google AI Studio, incluindo o modelo Gemini 1.0 Pro, a MesaAmiga IA oferece uma experiência interativa e informativa.
 
