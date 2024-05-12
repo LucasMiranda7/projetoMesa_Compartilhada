@@ -7,11 +7,11 @@
 Em um mundo onde a insegurança alimentar afeta mais de 700 milhões de pessoas, o equivalente a 10% da população global, e tragédias como as enchentes no Rio Grande do Sul deixam milhares desabrigados, a necessidade de ação se torna urgente. Surge então o projeto MesaAmiga IA, um chatbot inteligente criado para combater a fome e auxiliar os atingidos pelas enchentes no estado do RS e Principalmente combater fake news.
 
 ## Objetivo do Projeto
-1. Informar e conectar: A MesaAmiga IA fornece informações confiáveis sobre a insegurança alimentar e as enchentes no Rio Grande do Sul, combatendo a desinformação e as fake news.
+1. **Informar e conectar:** A MesaAmiga IA fornece informações confiáveis sobre a insegurança alimentar e as enchentes no Rio Grande do Sul, combatendo a desinformação e as fake news.
    
-2. Facilitar doações: O sistema conecta usuários a organizações confiáveis e campanhas de doação, tornando o processo de ajuda mais transparente e seguro.
+2. **Facilitar doações:** O sistema conecta usuários a organizações confiáveis e campanhas de doação, tornando o processo de ajuda mais transparente e seguro.
   
-3. Engajar e conscientizar: Através da interação com o chatbot, os usuários podem aprender mais sobre os problemas, as necessidades das vítimas e como contribuir de forma eficaz.
+3. **Engajar e conscientizar:** Através da interação com o chatbot, os usuários podem aprender mais sobre os problemas, as necessidades das vítimas e como contribuir de forma eficaz.
 
 ## Imagens do Projeto
 
