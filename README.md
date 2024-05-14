@@ -35,7 +35,7 @@ A MesaAmiga IA utiliza tecnologia de ponta para cumprir sua missão. Desenvolvid
 4. Converse com o chatbot e aprofunde seu conhecimento sobre os temas abordados.
 
 ##
-Top 15 Projeto mais Votado
+Top 15 Projeto mais Votado         
 Top 7 Melhores Projetos Alura
 
 ## Contato
